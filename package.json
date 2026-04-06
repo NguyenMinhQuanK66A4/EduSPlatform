@@ -1,0 +1,15 @@
+{
+  "name": "edulandingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@testing-library/react": "^16.3.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
